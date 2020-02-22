@@ -1,3 +1,6 @@
 STARTUP
--menggunakan laravel 5.8
+-menggunakan laravel 5.8 (untuk sekarang entah untuk nanti :v)
 -bootstrap
+-jscript
+-php native
+-python(rencana)
