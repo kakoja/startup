@@ -1,0 +1,2 @@
+# startup
+Rencana Startup kakojasoft
